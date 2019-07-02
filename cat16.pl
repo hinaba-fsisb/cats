@@ -1,4 +1,4 @@
-# UNIX ‚Ì cat ƒRƒ}ƒ“ƒh16
+# UNIX cat command 16
 binmode(STDIN);
 binmode(STDOUT);
 for (my $i=0; $i<=$#ARGV; $i++) {
