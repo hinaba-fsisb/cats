@@ -1,4 +1,4 @@
-# UNIX ‚Ì cat ƒRƒ}ƒ“ƒh8
+# UNIX cat command
 for my $file (@ARGV) {
     open(FILE,$file);
     while (defined($_ = <FILE>)) {
