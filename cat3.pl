@@ -1,4 +1,4 @@
-# UNIX ‚Ì cat ƒRƒ}ƒ“ƒh3
+# UNIX cat command 3    
 while (<>) {
     print $_;
 }
