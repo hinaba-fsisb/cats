@@ -1,2 +1,2 @@
-# UNIX ‚Ì cat ƒRƒ}ƒ“ƒh2
+# UNIX cat command 2
 print $_ for <>;
