@@ -1,4 +1,4 @@
-# UNIX ‚Ì cat ƒRƒ}ƒ“ƒh4
+# UNIX cat command 4
 while (<>) {
     chomp;
     print $_, "\n";
