@@ -1,4 +1,4 @@
-# UNIX ‚Ì cat ƒRƒ}ƒ“ƒh15
+# UNIX cat command 15
 binmode(STDIN);
 binmode(STDOUT);
 for my $file (@ARGV) {
