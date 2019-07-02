@@ -1,4 +1,4 @@
-# UNIX ‚Ì cat ƒRƒ}ƒ“ƒh12
+# UNIX cat command 12
 binmode(STDOUT);
 for my $file (@ARGV) {
     open(FILE,$file) || next;
