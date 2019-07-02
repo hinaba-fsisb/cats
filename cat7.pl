@@ -1,4 +1,4 @@
-# UNIX ‚Ì cat ƒRƒ}ƒ“ƒh7
+# UNIX cat commend
 while (defined($_ = <ARGV>)) {
     chomp;
     print $_, "\n";
