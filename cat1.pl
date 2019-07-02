@@ -1,2 +1,2 @@
-# UNIX ‚Ì cat ƒRƒ}ƒ“ƒh1
+# UNIX cat command 1
 print <>;
