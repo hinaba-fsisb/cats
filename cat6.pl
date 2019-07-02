@@ -1,5 +1,5 @@
 # UNIX cat command
-while (defined($_ = <>)) { # ˆÀS
+while (defined($_ = <>)) { # safety ;)
     chomp;
     print $_, "\n";
 }
