@@ -1,5 +1,5 @@
-# UNIX の cat コマンド6
-while (defined($_ = <>)) { # 安心
+# UNIX cat command
+while (defined($_ = <>)) { # ﾋ�ﾃﾂ心
     chomp;
     print $_, "\n";
 }
